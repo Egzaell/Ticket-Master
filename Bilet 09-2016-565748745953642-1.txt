@@ -1,0 +1,9 @@
+Bilet kolejowy numer: 09-2016-565748745953642-1
+typ biletu: Dla dzieci do lat 4
+##################################
+Trasa: Kielce - Radom: odleglosc - 77.0 km
+ godzina wyjazdu: 10:00, godzina pzyjazdu: 11:00
+ czas podrozy: 1h
+cena: 0.0
+##################################
+wystawiony na : Jan Testowy
